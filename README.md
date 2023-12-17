@@ -49,10 +49,12 @@ The project includes the following elements:
 Compile the code using `make`. Execute the program as follows:
 
 ```bash
-Moore> ./p_band_scan text|bin|mmap signal_file Fs filter_order num_bands num_threads num_processors
+$ ./p_band_scan text|bin|mmap signal_file Fs filter_order num_bands num_threads num_processors
 ```
 
 Adjust the number of threads and processors as needed.
+
+___
 
 May your code search the cosmos for signs of extraterrestrial intelligence! 🌌👽
 
